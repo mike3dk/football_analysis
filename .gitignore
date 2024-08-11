@@ -1,2 +1,8 @@
 *__pycahce__*
 *.pyc
+.env
+/*.sh
+*.mp4
+*.avi
+*.pt
+.DS_Store
